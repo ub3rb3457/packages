@@ -1,0 +1,22 @@
+{
+  "name": "@ub3rb3457/docs-loader",
+  "version": "1.0.0",
+  "description": "use <docs> tag in SFC's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ub3rb3457/packages.git"
+  },
+  "keywords": [
+    "packages"
+  ],
+  "author": "ub3rb3457",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ub3rb3457/packages/issues"
+  },
+  "homepage": "https://github.com/ub3rb3457/packages#readme"
+}
