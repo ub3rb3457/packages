@@ -1,0 +1,2 @@
+const logFn
+export {}
